@@ -28,6 +28,6 @@ def add_data(name, address):
 # Contoh penggunaan fungsi
 if __name__ == "__main__":
     print("GET All Data:", get_all())
-    print("GET by Name (Item1):", get_by_name("Item1"))
+    print("GET by Name (Item1):", get_by_name("Panji"))
     print("GET by Address (Address2):", get_by_address("Address2"))
     print("POST New Data:", add_data("Item3", "Address3"))

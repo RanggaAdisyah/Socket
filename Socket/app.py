@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Contoh data untuk testing
 data = [
-    {"name": "ItemA", "address": "AddressA"},
+    {"name": "Panji", "address": "AddressA"},
     {"name": "ItemB", "address": "AddressB"},
     {"name": "ItemC", "address": "AddressC"}
 ]
